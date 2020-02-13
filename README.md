@@ -1,6 +1,6 @@
 # instakilogram
 
-clone instagram
+clone instagram apps, use Flutter Dart, Bloc Pattern
 
 ## Getting Started
 
